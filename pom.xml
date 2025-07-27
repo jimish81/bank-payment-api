@@ -24,7 +24,7 @@
 
         <dependency>
            <!-- Micrometer Prometheus Registry -->
-           <groupId>micrometer.io</groupId>
+           <groupId>io.micrometer</groupId>
            <artifactId>micrometer-registry-prometheus</artifactId>
         </dependency>
              
