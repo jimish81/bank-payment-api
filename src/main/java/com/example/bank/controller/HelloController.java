@@ -8,6 +8,7 @@ public class HelloController {
 
     @GetMapping("/")
     public String hello() {
+        return "Welcome to ABC bank";
         return "Hello, payment API is up!";
     }
 }
